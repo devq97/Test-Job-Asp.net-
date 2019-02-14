@@ -1,0 +1,11 @@
+C:\Users\PERSONAL\source\repos\challenge\Job Test\Logic\bin\Debug\Logic.dll
+C:\Users\PERSONAL\source\repos\challenge\Job Test\Logic\bin\Debug\Logic.pdb
+C:\Users\PERSONAL\source\repos\challenge\Job Test\Logic\bin\Debug\DataAccess.dll
+C:\Users\PERSONAL\source\repos\challenge\Job Test\Logic\bin\Debug\Entities.dll
+C:\Users\PERSONAL\source\repos\challenge\Job Test\Logic\bin\Debug\DataAccess.pdb
+C:\Users\PERSONAL\source\repos\challenge\Job Test\Logic\bin\Debug\Entities.pdb
+C:\Users\PERSONAL\source\repos\challenge\Job Test\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\PERSONAL\source\repos\challenge\Job Test\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\source\repos\challenge\Job Test\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\PERSONAL\source\repos\challenge\Job Test\Logic\obj\Debug\Logic.dll
+C:\Users\PERSONAL\source\repos\challenge\Job Test\Logic\obj\Debug\Logic.pdb

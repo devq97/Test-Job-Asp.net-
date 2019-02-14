@@ -1,0 +1,6 @@
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary2\bin\Debug\Entities.dll
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary2\bin\Debug\Entities.pdb
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary2\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary2\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary2\obj\Debug\Entities.dll
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary2\obj\Debug\Entities.pdb

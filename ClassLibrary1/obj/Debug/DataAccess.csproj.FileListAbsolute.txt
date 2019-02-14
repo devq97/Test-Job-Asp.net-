@@ -1,0 +1,9 @@
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary1\bin\Debug\DataAccess.dll
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary1\bin\Debug\DataAccess.pdb
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary1\bin\Debug\Entities.dll
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary1\bin\Debug\Entities.pdb
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary1\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary1\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary1\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary1\obj\Debug\DataAccess.dll
+C:\Users\PERSONAL\source\repos\challenge\Job Test\ClassLibrary1\obj\Debug\DataAccess.pdb

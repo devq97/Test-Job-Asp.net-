@@ -1,0 +1,18 @@
+﻿#containerFilter {
+    display: none;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    height: 100vh;
+    background: rgba(211,211,211,.4);
+    left: 0;
+    overflow: hidden;
+}
+
+#cardFilter {
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #fff;
+}
