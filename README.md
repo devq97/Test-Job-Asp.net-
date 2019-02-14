@@ -4,4 +4,4 @@ In front end I used bootstrap and CSS and in the back-end C#
 
 The version of VS was 2012 and SQL Server 2012 too.
 
-The script of Database is in AppData folder.
+The script of Database is DBTEST.sql
